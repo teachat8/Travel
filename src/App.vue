@@ -2,7 +2,9 @@
   <div id="app">
 
     <!-- 显示的是当前路由地址所对应的内容 根路径 -->
-    <router-view/>
+    <keep-alive>
+      <router-view/>
+    </keep-alive>
   </div>
 </template>
 
