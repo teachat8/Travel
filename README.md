@@ -6,7 +6,7 @@ Vue开发去哪儿旅行网
 
 核心层
 
-底层框架：Vue.js 2.5.2 核心组成：
+底层框架：Vue.js 2.5.2 核心组成：
 
 * 路由库：vue-router 3.0.1
 * 状态管理模式: vuex 3.1.0
@@ -16,14 +16,9 @@ Vue开发去哪儿旅行网
 
 > 基于 Vue-CLI 脚手架搭建
 
-效果如下：
+## 效果截图
 
-[](https://i.loli.net/2019/04/15/5cb492deb38d2.gif)
-[](https://i.loli.net/2019/04/15/5cb496267b9d8.png)
-[](https://i.loli.net/2019/04/15/5cb4950a63377.png)
-[](https://i.loli.net/2019/04/15/5cb4950a64f02.png)
-[](https://i.loli.net/2019/04/15/5cb4950a8df79.png)
-[](https://i.loli.net/2019/04/15/5cb4950a8f770.png)
+<img src="https://i.loli.net/2019/04/15/5cb492deb38d2.gif" width="250" height="400">  <img src="https://i.loli.net/2019/04/15/5cb496267b9d8.png" width="250" height="400">  <img src="https://i.loli.net/2019/04/15/5cb4950a63377.png" width="250" height="400">  <img src="https://i.loli.net/2019/04/15/5cb4950a64f02.png" width="250" height="400">  <img src="https://i.loli.net/2019/04/15/5cb4950a8df79.png" width="250" height="400">  <img src="https://i.loli.net/2019/04/15/5cb4950a8f770.png" width="250" height="400">
 
 ## 项目运行（nodejs 6.0+）
 
