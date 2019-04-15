@@ -1,8 +1,8 @@
-# travel
+## travel
 
 Vue开发去哪儿旅行网
 
-# 技术栈组成
+## 技术栈组成
 
 核心层
 
@@ -39,6 +39,13 @@ npm run dev
 npm run build
 ```
 
+## 如何贡献
+
+欢迎任何形式的贡献，有任何建议或意见您可以进行 Pull Request，或者给我 提问。
+
+## 联系作者
+
+teachat8@gmail.com
 
 ## 文档协议
 > <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a xmlns:dct="http://purl.org/dc/terms/" property="dct:title">**teachat** 的文档库</a> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="wzh" property="cc:attributionName" rel="cc:attributionURL">teachat</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />本许可协议授权之外的使用权限可以从 <a xmlns:cc="http://creativecommons.org/ns#" href="https://creativecommons.org/licenses/by-nc-sa/2.5/cn/" rel="cc:morePermissions">https://creativecommons.org/licenses/by-nc-sa/2.5/cn/</a> 处获得。
