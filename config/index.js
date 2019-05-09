@@ -6,7 +6,6 @@ const path = require('path')
 
 module.exports = {
   dev: {
-
     // Paths webpack-dev-server
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
@@ -58,6 +57,14 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     assetsPublicPath: './',
+    proxyTable: {
+      '/api': {
+        target: 'https://teachat8.github.io',
+        pathRewrite: {
+          '^/api': '/static/mock'
+        }
+      }
+    },
 
     /**
      * Source Maps
